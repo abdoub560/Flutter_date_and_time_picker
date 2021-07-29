@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:learning/date_picker_widget.dart';
-import 'package:learning/date_time_picker_widget.dart';
-import 'package:learning/time_picker_widget.dart';
+import 'package:learning/widgets/date_picker_widget.dart';
+import 'package:learning/widgets/date_time_picker_widget.dart';
+import 'package:learning/widgets/time_picker_widget.dart';
 
 void main() {
   runApp(MyApp());
